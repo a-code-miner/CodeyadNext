@@ -1,9 +1,9 @@
 import React from 'react';
 
 const Index = () => {
-	return (
-		<div>Main Page</div>
-	);
+    return (
+        <div>Products</div>
+    );
 };
 
 export default Index;
